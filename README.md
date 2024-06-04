@@ -1,2 +1,3 @@
-# PRODIGY_WD_04 - Personal portfolio website
-Build a personal portfolio website that showcases your skills, projects, and accomplishments as a web developer. Design an attractive and visually appealing layout that captures visitors' attention. Include a home page with a captivating headline, professional photo, and summary of your skills. Provide an "About Me" section with a detailed background, education, and professional experience.
+# PRODIGY_WD_05 - Weater Application
+
+Build a web page that fetches weather data from a weather API based on the user's location or a user-inputted location. Display the current weather conditions, temperature, and other relevant information.
